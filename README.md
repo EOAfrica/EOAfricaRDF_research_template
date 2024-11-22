@@ -1,5 +1,4 @@
-# reproducable_research_template
-EO Africa R&D Template repository for research which supports easy deployment on other Jupyter platforms
+# Research workflow repository of the EOAFrica/Vidi GNSS-IR paper reproducable_research_template
 
 # Instructions for reproducing the workflows
 
